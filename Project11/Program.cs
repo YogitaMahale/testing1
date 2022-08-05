@@ -14,6 +14,7 @@ namespace Project11
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //Git chnages
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
